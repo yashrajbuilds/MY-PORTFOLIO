@@ -1,3 +1,4 @@
+live demo = https://yashrajrathore-portfolio.netlify.app/
 # Yashraj Singh Rathore — Portfolio
 
 A premium, cinematic personal portfolio website built with React, Tailwind CSS, and Framer Motion.
